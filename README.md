@@ -4,6 +4,8 @@
 ### English: A2 (currently improving toward fluency).
 ### College: FATEC São Caetano do Sul.
 
+------------------------------------------------------------------------------------------------------
+
 #### Olá, meu nome é Pedro Henrique Cardoso Vidal. Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul.
 #### Tenho interesse na área de desenvolvimento de software e busco aprimorar continuamente minhas habilidades em programação. Meu objetivo é trabalhar no exterior, especialmente em países como Canadá, Alemanha ou #### Coreia do Sul.
 #### Tecnologias: C, C++, Java, Python, HTML, CSS e JavaScript.
