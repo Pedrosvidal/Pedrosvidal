@@ -1,8 +1,20 @@
-# 👩🏻‍💻 Larissa Kich
+# 💻 Pedro Henrique Cardoso Vidal
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Olá, me chamo Pedro Henrique Cardoso Vidal, tenho 19 anos e sou de São Paulo. Tenho ensino medio completo e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC. Tenho um grande interesse na área de desenvolvimento de software e busco aprimorar continuamente minhas habilidades em programação. Meu principal objetivo é trabalho no exterior, especialmente em países como Canadá, Alemanha e Coreia do Sul.
+
+Inglês: Nivel A2 (Em constante evolução rumo à fluência)
+Faculdade: FATEC São Caetano do Sul (Analise e desenvolvimento de sistemas)
+
+------------------------------------------------------------------------------------------------------
+
+My name is Pedro Henrique Cardoso Vidal. I am 19 years old and I am from São Paulo, Brazil. I have completed high school and I am currently studying Systems Analysis and Development at FATEC São Caetano do Sul. I have a big interest in software development and I am constantly improving my programming skills. My main goal is to build an international career, especially in countries such as Canada, Germany, and South Korea.
+
+English: A2 level (continuously improving toward fluency)
+University: FATEC São Caetano do Sul (Systems Analysis and Development)
+
+
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
