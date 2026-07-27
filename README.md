@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-# Stacks: C, C++, Java, Python, Front-end, 
-# English level: 
+### Stacks: C, C++, Java, Python, Front-end, 
+### English level: 
