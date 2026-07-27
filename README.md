@@ -38,7 +38,7 @@ University: `FATEC São Caetano do Sul` (Systems Analysis and Development)
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Pedrosvidal">
+    <a href="pedrohcardosovidal@gmail.com">
         <img 
             alt="pedrohcardosovidal@gmail.com" 
             title="Email" 
