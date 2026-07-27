@@ -2,17 +2,17 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, me chamo Pedro Henrique Cardoso Vidal, tenho 19 anos e sou de São Paulo. Tenho ensino medio completo e atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC. Tenho um grande interesse na área de desenvolvimento de software e busco aprimorar continuamente minhas habilidades em programação. Meu principal objetivo é trabalho no exterior, especialmente em países como Canadá, Alemanha e Coreia do Sul.
+Olá, me chamo Pedro Henrique Cardoso Vidal, tenho 19 anos e sou de São Paulo. Tenho ensino medio completo e atualmente, estou cursando [Análise e Desenvolvimento de Sistemas] na FATEC. Tenho um grande interesse na área de desenvolvimento de software e busco aprimorar continuamente minhas habilidades em programação. Meu principal objetivo é [trabalhar no exterior], especialmente em países como Canadá, Alemanha e Coreia do Sul.
 
-Inglês: Nivel A2 (Em constante evolução rumo à fluência)
-Faculdade: FATEC São Caetano do Sul (Analise e desenvolvimento de sistemas)
+Inglês: [Nivel A2] (Em constante evolução rumo à fluência)
+Faculdade: [FATEC São Caetano do Sul] (Analise e desenvolvimento de sistemas)
 
 ------------------------------------------------------------------------------------------------------
 
-My name is Pedro Henrique Cardoso Vidal. I am 19 years old and I am from São Paulo, Brazil. I have completed high school and I am currently studying Systems Analysis and Development at FATEC São Caetano do Sul. I have a big interest in software development and I am constantly improving my programming skills. My main goal is to build an international career, especially in countries such as Canada, Germany, and South Korea.
+My name is Pedro Henrique Cardoso Vidal. I am 19 years old and I am from São Paulo, Brazil. I have completed high school and I am currently studying [Systems Analysis and Development] at FATEC São Caetano do Sul. I have a big interest in software development and I am constantly improving my programming skills. My main goal is to [build an international career], especially in countries such as Canada, Germany, and South Korea.
 
-English: A2 level (continuously improving toward fluency)
-University: FATEC São Caetano do Sul (Systems Analysis and Development)
+English: [A2 level] (continuously improving toward fluency)
+University: [FATEC São Caetano do Sul] (Systems Analysis and Development)
 
 
 
