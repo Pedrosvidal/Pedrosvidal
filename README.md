@@ -24,9 +24,6 @@ University: `FATEC São Caetano do Sul` (Systems Analysis and Development)
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<br/>
-<br/>
-
  <img
    align="left" 
     alt="HTML" 
