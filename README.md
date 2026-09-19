@@ -2,9 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, me chamo Pedro Henrique Cardoso Vidal, tenho 19 anos e sou de São Paulo. Tenho ensino medio completo e atualmente, estou cursando `Análise e Desenvolvimento de Sistemas` na FATEC. Tenho um grande interesse na área de desenvolvimento de software e busco aprimorar continuamente minhas habilidades em programação. Meu principal objetivo é `trabalhar no exterior`, especialmente em países como Canadá, Alemanha e Coreia do Sul.
+<p> Olá, me chamo Pedro Henrique Cardoso Vidal, tenho 19 anos e sou de São Paulo. Tenho ensino medio completo e atualmente, estou cursando `Análise e Desenvolvimento de Sistemas` na FATEC. Tenho um grande interesse na área de desenvolvimento de software e busco aprimorar continuamente minhas habilidades em programação. Meu principal objetivo é `trabalhar no exterior`, especialmente em países como Canadá, Alemanha e Coreia do Sul. </p>
 
-Inglês: `Nivel A2` (Em constante evolução rumo à fluência)
+<u>Inglês:</u> `Nivel A2` (Em constante evolução rumo à fluência)
 Faculdade: `FATEC São Caetano do Sul` (Analise e desenvolvimento de sistemas)
 
 ------------------------------------------------------------------------------------------------------
@@ -31,5 +31,13 @@ University: `FATEC São Caetano do Sul` (Systems Analysis and Development)
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+ <img
+   align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 />
           
