@@ -34,7 +34,7 @@ My name is Pedro Henrique Cardoso Vidal. I am 19 years old and I am from São Pa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
- <img
+<img
    align="left" 
     alt="CSS" 
     title="CSS"
