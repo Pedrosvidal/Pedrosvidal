@@ -16,7 +16,8 @@ My name is Pedro Henrique Cardoso Vidal. I am 19 years old and I am from São Pa
 <br>
 ***University:*** `FATEC São Caetano do Sul` (Systems Analysis and Development)
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias (Languages and Tools)
+
 
 <img 
     align="left" 
@@ -40,6 +41,6 @@ My name is Pedro Henrique Cardoso Vidal. I am 19 years old and I am from São Pa
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"    
 />
           
